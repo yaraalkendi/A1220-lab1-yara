@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+docs/
+receipts/
+.DS_Store
